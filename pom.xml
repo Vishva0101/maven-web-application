@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ICICI-realease-repo</name>
-	      <url>http://43.205.210.23:8081/repository/ICICI-release-repo/</url>
+	      <url>http://13.233.124.239:8081/repository/ICICI-release-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICI-Snapshot-repo</name>
-	      <url>http://43.205.210.23:8081/repository/ICICI-Snapshot-repo/</url>
+	      <url>http://13.233.124.239:8081/repository/ICICI-Snapshot-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
